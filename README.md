@@ -37,14 +37,6 @@
 
 ---
 
-## 📸 Screenshots
-
-_(Add these to your GitHub repo or project report)_
-- Initial graph (all grey)
-- Mid traversal (partially green)
-- Full traversal (all reachable nodes green)
-
----
 
 ## 📖 How to Use (Sample Input)
 
